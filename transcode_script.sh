@@ -20,7 +20,7 @@ select_output_folder() {
         read -p "Enter the folder name: " output_folder
         mkdir -p "$output_folder"
     else
-        output_folder="transcode"
+        output_folder="."
     fi
 }
 
@@ -35,7 +35,6 @@ check_and_rename() {
 }
 
 # Main script
-mkdir -p transcode
 select_files
 select_output_folder
 
