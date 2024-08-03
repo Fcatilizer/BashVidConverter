@@ -26,4 +26,4 @@ chmod +x transcode_script.sh
 alias transcode="~/path/to/transcode_script.sh"
 ```
 
-NOTE: There is no Steam, Davinci Resolve option because it will depend on your GPU. So do it manually!! 
+NOTE: There is no Steam, Davinci Resolve option in install2.sh because it will depend on your GPU. So do it manually!! 
