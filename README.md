@@ -9,7 +9,7 @@
 - It asks if you want to create a new output folder or save the transcoded video in the current directory.
 - If saving in the current directory, it will prompt you to rename the video to avoid conflicts.
 
-### Youtube Tutorial - [Click Here](https://youtu.be/I0oqHkP93JM)
+### Youtube Tutorial - [Watch Here](https://youtu.be/I0oqHkP93JM)
 
 ## How to set up
 
